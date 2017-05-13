@@ -17,10 +17,9 @@ public class GrabStocks{
 		//TODO
 		
 		
-		/*
-		 Delete one of the observers
-		 stockGrabber.unregister(observer2);
-		*/
+		// TODO
+		// Delete one of the observers
+		
 		
 		//TODO : 
 		
